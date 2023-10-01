@@ -1,4 +1,4 @@
-# AYNA
-<a href="https://royishan.github.io/ayna.github.io/index.html"> Click Here for Website</a>
+# KRISHAK
+<a href="https://vishalm029.github.io/KRISHAK_Website/"> Click Here for Website</a>
 <br>
-AYNA (All You Need for Agronomy) is a website particularly for the Indian Farmers to provide all information in one portal.
+KRISHAK is a website particularly for the Indian Farmers to provide all information in one portal.
